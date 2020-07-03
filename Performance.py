@@ -51,6 +51,15 @@ functions).
 Save your plot to ./performance_plots_2.jpg
 """
 
+"""
+Repeat a similar experiment using a multi-bloom
+filter with capacity 10000, and 2 distinct hash
+functions (chosen from a family of universal hash
+functions).  
+
+Save your plot to ./performance_plots_3.jpg
+"""
+
 #TODO
 
 """
@@ -59,7 +68,16 @@ filter with capacity 2000, and 5 distinct hash
 functions (chosen from a family of universal hash
 functions).  
 
-Save your plot to ./performance_plots_3.jpg
+Save your plot to ./performance_plots_4.jpg
+"""
+
+"""
+Repeat a similar experiment using a multi-bloom
+filter with capacity 4000, and 5 distinct hash
+functions (chosen from a family of universal hash
+functions).  
+
+Save your plot to ./performance_plots_5.jpg
 """
 
 """
