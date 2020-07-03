@@ -32,7 +32,7 @@ for k = 1000, 2000, ..., 10000
 Take the data you gathered from (1) and (2) and
 plot it against k.
 
-Save your plot to ./performance_plots_1.jpg
+Save your plot to ./performance_plots_0.jpg
 
 You can use matplotlib.pyplot for this.
 
@@ -41,6 +41,12 @@ your findings.
 """
 
 #TODO
+"""
+Repeat the same experiment with a bloom
+filter having capacity 20000.
+
+Save your plot to ./performance_plots_1.jpg
+"""
 
 """
 Repeat a similar experiment using a multi-bloom
